@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>donghau -c43-3.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{414,0},{34,24}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{34,24}}</string>
+        <key>sourceSize</key>
+        <string>{34,24}</string>
+      </dict>
+      <key>donghau -c43-2.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{450,0},{33,25}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{33,25}}</string>
+        <key>sourceSize</key>
+        <string>{33,25}</string>
+      </dict>
+      <key>donghau -c43-1.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{414,26},{26,29}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{26,29}}</string>
+        <key>sourceSize</key>
+        <string>{26,29}</string>
+      </dict>
+      <key>donghau -c43ren.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{0,0},{314,497}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{314,497}}</string>
+        <key>sourceSize</key>
+        <string>{314,497}</string>
+      </dict>
+      <key>donghau -c43-4.png</key>
+      <dict>
+        <key>frame</key>
+        <string>{{316,0},{96,94}}</string>
+        <key>offset</key>
+        <string>{0,0}</string>
+        <key>rotated</key>
+        <false/>
+        <key>sourceColorRect</key>
+        <string>{{0,0},{96,94}}</string>
+        <key>sourceSize</key>
+        <string>{96,94}</string>
+      </dict>
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key>
+      <integer>2</integer>
+      <key>realTextureFileName</key>
+      <string>未命名-2.png</string>
+      <key>textureFileName</key>
+      <string>未命名-2.png</string>
+      <key>size</key>
+      <string>{512,512}</string>
+    </dict>
+  </dict>
+</plist>

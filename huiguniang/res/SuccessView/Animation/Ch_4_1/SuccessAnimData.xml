@@ -1,0 +1,60 @@
+<skeleton name="未命名-2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="c41">
+      <b name="图层 4" x="8.35" y="-3.65" kX="0" kY="0" cX="0.37" cY="0.37" pX="38" pY="36.5" z="0">
+        <d name="donghau -c11hua" pX="0" pY="0"/>
+      </b>
+      <b name="图层 3" x="20.35" y="1.35" kX="0" kY="0" cX="0.42" cY="0.42" pX="38" pY="36.45" z="1">
+        <d name="donghau -c11hua" pX="0" pY="0"/>
+      </b>
+      <b name="图层 2" x="0.85" y="23" kX="0" kY="0" cX="0.33" cY="0.33" pX="38.1" pY="36.4" z="2">
+        <d name="donghau -c11hua" pX="0" pY="0"/>
+      </b>
+      <b name="图层 1" x="1.35" y="0.35" kX="0" kY="0" cX="0.27" cY="0.27" pX="146.5" pY="240.5" z="3">
+        <d name="donghau -c41ren" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="c41">
+      <mov name="c41" dr="30" to="6" drTW="30" lp="0" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="8.35" y="-3.65" cocos2d_x="-5.7" cocos2d_y="-17.15" kX="0" kY="0" cX="0.37" cY="0.37" pX="38" pY="36.5" z="0" dI="0" dr="6"/>
+          <f x="-177.6" y="-88.65" cocos2d_x="-228.6" cocos2d_y="-137.65" kX="0" kY="0" cX="1.34" cY="1.34" pX="38" pY="36.5" z="0" dI="0" dr="5"/>
+          <f x="-177.6" y="-88.65" cocos2d_x="-208.6" cocos2d_y="-118.45" kX="0" kY="0" cX="0.82" cY="0.82" pX="38" pY="36.55" z="0" dI="0" dr="5"/>
+          <f x="-177.6" y="-88.65" cocos2d_x="-218.6" cocos2d_y="-128.05" kX="0" kY="0" cX="1.08" cY="1.08" pX="38" pY="36.55" z="0" dI="0" dr="5"/>
+          <f x="-177.6" y="-88.65" cocos2d_x="-215.6" cocos2d_y="-125.15" kX="0" kY="0" cX="1" cY="1" pX="38" pY="36.5" z="0" dI="0" dr="5"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="20.35" y="1.35" cocos2d_x="4.35" cocos2d_y="-14" kX="0" kY="0" cX="0.42" cY="0.42" pX="38" pY="36.45" z="1" dI="0" dr="6"/>
+          <f x="190.35" y="17.35" cocos2d_x="145.35" cocos2d_y="-25.85" kX="0" kY="0" cX="1.18" cY="1.18" pX="38" pY="36.5" z="1" dI="0" dr="5"/>
+          <f x="190.35" y="17.35" cocos2d_x="158.35" cocos2d_y="-13.4" kX="0" kY="0" cX="0.84" cY="0.84" pX="38" pY="36.5" z="1" dI="0" dr="5"/>
+          <f x="190.35" y="17.35" cocos2d_x="150.35" cocos2d_y="-21.05" kX="0" kY="0" cX="1.05" cY="1.05" pX="38" pY="36.5" z="1" dI="0" dr="5"/>
+          <f x="190.35" y="17.35" cocos2d_x="152.35" cocos2d_y="-19.15" kX="0" kY="0" cX="1" cY="1" pX="38" pY="36.5" z="1" dI="0" dr="5"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="0.85" y="23" cocos2d_x="-11.7" cocos2d_y="11" kX="0" kY="0" cX="0.33" cY="0.33" pX="38.1" pY="36.4" z="2" dI="0" dr="6"/>
+          <f x="-156.8" y="104.3" cocos2d_x="-194.35" cocos2d_y="68.2" kX="0" kY="0" cX="0.99" cY="0.99" pX="37.95" pY="36.5" z="2" dI="0" dr="5"/>
+          <f x="-156.8" y="104.3" cocos2d_x="-180.8" cocos2d_y="81.2" kX="0" kY="0" cX="0.63" cY="0.63" pX="37.9" pY="36.5" z="2" dI="0" dr="5"/>
+          <f x="-156.8" y="104.3" cocos2d_x="-190.45" cocos2d_y="71.95" kX="0" kY="0" cX="0.89" cY="0.89" pX="37.95" pY="36.5" z="2" dI="0" dr="5"/>
+          <f x="-156.8" y="104.3" cocos2d_x="-186.55" cocos2d_y="75.7" kX="0" kY="0" cX="0.78" cY="0.78" pX="38" pY="36.55" z="2" dI="0" dr="5"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="1.35" y="0.35" cocos2d_x="-38.55" cocos2d_y="-65.15" kX="0" kY="0" cX="0.27" cY="0.27" pX="146.5" pY="240.5" z="3" dI="0" dr="6"/>
+          <f x="1.35" y="0.35" cocos2d_x="-178.05" cocos2d_y="-294.15" kX="0" kY="0" cX="1.22" cY="1.22" pX="146.5" pY="240.5" z="3" dI="0" dr="6"/>
+          <f x="1.35" y="0.35" cocos2d_x="-126.15" cocos2d_y="-208.95" kX="0" kY="0" cX="0.87" cY="0.87" pX="146.5" pY="240.5" z="3" dI="0" dr="5"/>
+          <f x="1.35" y="0.35" cocos2d_x="-154.9" cocos2d_y="-256.15" kX="0" kY="0" cX="1.07" cY="1.07" pX="146.5" pY="240.5" z="3" dI="0" dr="5"/>
+          <f x="1.35" y="0.35" cocos2d_x="-145.15" cocos2d_y="-240.15" kX="0" kY="0" cX="1" cY="1" pX="146.5" pY="240.5" z="3" dI="0" dr="6"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="未命名-2" width="512" height="512">
+    <SubTexture name="donghau -c41ren" width="293" height="481" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+    <SubTexture name="donghau -c11hua" width="76" height="73" cocos2d_pX="0" cocos2d_pY="0" x="295" y="0"/>
+  </TextureAtlas>
+</skeleton>

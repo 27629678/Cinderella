@@ -1,0 +1,131 @@
+{
+    "chapterInfo": "1",
+    "charstolearn": [
+        {
+            "id": 1,
+            "char_chinese": "一",
+            "char_sound": "/1/charDatabase/1-80/1/char.mp3",
+            "char_phrase": "唯一",
+            "phrase_sound": "/1/charDatabase/1-80/1/phrase_2.mp3"
+        },
+        {
+            "id": 2,
+            "char_chinese": "二",
+            "char_sound": "/1/charDatabase/1-80/2/char.mp3",
+            "char_phrase": "二胡",
+            "phrase_sound": "/1/charDatabase/1-80/2/phrase_1.mp3"
+        },
+        {
+            "id": 3,
+            "char_chinese": "三",
+            "char_sound": "/1/charDatabase/1-80/3/char.mp3",
+            "char_phrase": "三月",
+            "phrase_sound": "/1/charDatabase/1-80/3/phrase_4.mp3"
+        },
+        {
+            "id": 4,
+            "char_chinese": "十",
+            "char_sound": "/1/charDatabase/1-80/4/char.mp3",
+            "char_phrase": "十足",
+            "phrase_sound": "/1/charDatabase/1-80/4/phrase_6.mp3"
+        }
+    ],
+    "answers": [
+        {
+            "question": [
+                {
+                    "id": 1,
+                    "char_chinese": "一",
+                    "char_sound": "/1/charDatabase/1-80/1/char.mp3"
+                },
+                {
+                    "id": 4,
+                    "char_chinese": "十",
+                    "char_sound": "/1/charDatabase/1-80/4/char.mp3"
+                },
+                {
+                    "id": 3,
+                    "char_chinese": "三",
+                    "char_sound": "/1/charDatabase/1-80/3/char.mp3"
+                },
+                {
+                    "id": 2,
+                    "char_chinese": "二",
+                    "char_sound": "/1/charDatabase/1-80/2/char.mp3"
+                }
+            ]
+        },
+        {
+            "question": [
+                {
+                    "id": 2,
+                    "char_chinese": "二",
+                    "char_sound": "/1/charDatabase/1-80/2/char.mp3"
+                },
+                {
+                    "id": 4,
+                    "char_chinese": "十",
+                    "char_sound": "/1/charDatabase/1-80/4/char.mp3"
+                },
+                {
+                    "id": 1,
+                    "char_chinese": "一",
+                    "char_sound": "/1/charDatabase/1-80/1/char.mp3"
+                },
+                {
+                    "id": 3,
+                    "char_chinese": "三",
+                    "char_sound": "/1/charDatabase/1-80/3/char.mp3"
+                }
+            ]
+        },
+        {
+            "question": [
+                {
+                    "id": 3,
+                    "char_chinese": "三",
+                    "char_sound": "/1/charDatabase/1-80/3/char.mp3"
+                },
+                {
+                    "id": 2,
+                    "char_chinese": "二",
+                    "char_sound": "/1/charDatabase/1-80/2/char.mp3"
+                },
+                {
+                    "id": 4,
+                    "char_chinese": "十",
+                    "char_sound": "/1/charDatabase/1-80/4/char.mp3"
+                },
+                {
+                    "id": 1,
+                    "char_chinese": "一",
+                    "char_sound": "/1/charDatabase/1-80/1/char.mp3"
+                }
+            ]
+        },
+        {
+            "question": [
+                {
+                    "id": 4,
+                    "char_chinese": "十",
+                    "char_sound": "/1/charDatabase/1-80/4/char.mp3"
+                },
+                {
+                    "id": 2,
+                    "char_chinese": "二",
+                    "char_sound": "/1/charDatabase/1-80/2/char.mp3"
+                },
+                {
+                    "id": 1,
+                    "char_chinese": "一",
+                    "char_sound": "/1/charDatabase/1-80/1/char.mp3"
+                },
+                {
+                    "id": 3,
+                    "char_chinese": "三",
+                    "char_sound": "/1/charDatabase/1-80/3/char.mp3"
+                }
+            ]
+        }
+    ]
+}

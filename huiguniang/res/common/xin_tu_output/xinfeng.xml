@@ -1,0 +1,93 @@
+<skeleton name="xinfeng" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="xinfeng">
+      <b name="图层 1" x="0.35" y="0" kX="0" kY="0" cX="1" cY="1" pX="35.5" pY="28.5" z="0">
+        <d name="xinfeng_1-元件 4" pX="0" pY="0"/>
+      </b>
+      <b name="图层 2" x="26" y="-3.65" kX="0" kY="0" cX="1" cY="1" pX="2" pY="22.5" z="1">
+        <d name="xinfeng_1-元件 3" pX="0" pY="0"/>
+      </b>
+      <b name="图层 3" x="-26" y="-4.65" kX="0" kY="0" cX="1" cY="1" pX="34" pY="20.5" z="2">
+        <d name="xinfeng_1-元件 2" pX="0" pY="0"/>
+      </b>
+      <b name="图层 4" x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="33.5" pY="24.5" z="3">
+        <d name="xinfeng_1-元件 1" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="tuzi">
+      <b name="图层 3" x="-14.65" y="30.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="3" z="0">
+        <d name="tuzi_1-er_zuo" pX="0" pY="0"/>
+      </b>
+      <b name="图层 2" x="15" y="29.35" kX="0" kY="0" cX="1" cY="1" pX="2" pY="3" z="1">
+        <d name="tuzi_1-er_you" pX="0" pY="0"/>
+      </b>
+      <b name="图层 1" x="-1" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="54" pY="50.5" z="2">
+        <d name="tuzi_1-tutou" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="xinfeng">
+      <mov name="xinfeng" dr="30" to="6" drTW="30" lp="0" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.35" y="0" cocos2d_x="-35.15" cocos2d_y="-28.5" kX="0" kY="0" cX="1" cY="1" pX="35.5" pY="28.5" z="0" dI="0" dr="30"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="26" y="-3.65" cocos2d_x="24" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="2" pY="22.5" z="1" dI="0" dr="5"/>
+          <f x="26" y="-3.65" cocos2d_x="37.1" cocos2d_y="-23.35" kX="34.44" kY="34.44" cX="1" cY="1" pX="2" pY="22.55" z="1" dI="0" dr="5"/>
+          <f x="26" y="-3.65" cocos2d_x="24" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="2" pY="22.5" z="1" dI="0" dr="5"/>
+          <f x="26" y="-3.65" cocos2d_x="37.1" cocos2d_y="-23.35" kX="34.44" kY="34.44" cX="1" cY="1" pX="2" pY="22.55" z="1" dI="0" dr="5"/>
+          <f x="26" y="-3.65" cocos2d_x="24" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="2" pY="22.5" z="1" dI="0" dr="5"/>
+          <f x="26" y="-3.65" cocos2d_x="37.1" cocos2d_y="-23.35" kX="34.44" kY="34.44" cX="1" cY="1" pX="2" pY="22.55" z="1" dI="0" dr="4"/>
+          <f x="26" y="-3.65" cocos2d_x="24" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="2" pY="22.5" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-26" y="-4.65" cocos2d_x="-60" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="34" pY="20.5" z="2" dI="0" dr="5"/>
+          <f x="-26" y="-4.65" cocos2d_x="-65.7" cocos2d_y="-4.25" kX="-31.75" kY="-31.75" cX="1" cY="1" pX="33.95" pY="20.5" z="2" dI="0" dr="5"/>
+          <f x="-26" y="-4.65" cocos2d_x="-60" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="34" pY="20.5" z="2" dI="0" dr="5"/>
+          <f x="-26" y="-4.65" cocos2d_x="-65.7" cocos2d_y="-4.25" kX="-31.75" kY="-31.75" cX="1" cY="1" pX="33.95" pY="20.5" z="2" dI="0" dr="5"/>
+          <f x="-26" y="-4.65" cocos2d_x="-60" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="34" pY="20.5" z="2" dI="0" dr="5"/>
+          <f x="-26" y="-4.65" cocos2d_x="-65.7" cocos2d_y="-4.25" kX="-31.75" kY="-31.75" cX="1" cY="1" pX="33.95" pY="20.5" z="2" dI="0" dr="4"/>
+          <f x="-26" y="-4.65" cocos2d_x="-60" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="34" pY="20.5" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0.35" y="-0.65" cocos2d_x="-33.15" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="33.5" pY="24.5" z="3" dI="0" dr="30"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="tuzi">
+      <mov name="tuzi" dr="30" to="6" drTW="30" lp="0" twE="NaN">
+        <b name="图层 3" sc="1" dl="0">
+          <f x="-14.65" y="30.35" cocos2d_x="-61.15" cocos2d_y="27.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="3" z="0" dI="0" dr="5"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-58" cocos2d_y="47.45" kX="-25.23" kY="-25.23" cX="1" cY="1" pX="46.45" pY="3" z="0" dI="0" dr="5"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-61.15" cocos2d_y="27.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="3" z="0" dI="0" dr="5"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-58" cocos2d_y="47.45" kX="-25.23" kY="-25.23" cX="1" cY="1" pX="46.45" pY="3" z="0" dI="0" dr="5"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-61.15" cocos2d_y="27.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="3" z="0" dI="0" dr="5"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-58" cocos2d_y="47.45" kX="-25.23" kY="-25.23" cX="1" cY="1" pX="46.45" pY="3" z="0" dI="0" dr="4"/>
+          <f x="-14.65" y="30.35" cocos2d_x="-61.15" cocos2d_y="27.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="3" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 2" sc="1" dl="0">
+          <f x="15" y="29.35" cocos2d_x="13" cocos2d_y="26.35" kX="0" kY="0" cX="1" cY="1" pX="2" pY="3" z="1" dI="0" dr="5"/>
+          <f x="15" y="29.35" cocos2d_x="14.2" cocos2d_y="25.85" kX="20.47" kY="20.47" cX="1" cY="1" pX="1.95" pY="3" z="1" dI="0" dr="5"/>
+          <f x="15" y="29.35" cocos2d_x="13" cocos2d_y="26.35" kX="0" kY="0" cX="1" cY="1" pX="2" pY="3" z="1" dI="0" dr="5"/>
+          <f x="15" y="29.35" cocos2d_x="14.2" cocos2d_y="25.85" kX="20.47" kY="20.47" cX="1" cY="1" pX="1.95" pY="3" z="1" dI="0" dr="5"/>
+          <f x="15" y="29.35" cocos2d_x="13" cocos2d_y="26.35" kX="0" kY="0" cX="1" cY="1" pX="2" pY="3" z="1" dI="0" dr="5"/>
+          <f x="15" y="29.35" cocos2d_x="14.2" cocos2d_y="25.85" kX="20.47" kY="20.47" cX="1" cY="1" pX="1.95" pY="3" z="1" dI="0" dr="4"/>
+          <f x="15" y="29.35" cocos2d_x="13" cocos2d_y="26.35" kX="0" kY="0" cX="1" cY="1" pX="2" pY="3" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="-1" y="-0.65" cocos2d_x="-55" cocos2d_y="-51.15" kX="0" kY="0" cX="1" cY="1" pX="54" pY="50.5" z="2" dI="0" dr="30"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="xinfeng" width="256" height="256">
+    <SubTexture name="tuzi_1-tutou" width="108" height="101" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+    <SubTexture name="tuzi_1-er_you" width="48" height="46" cocos2d_pX="0" cocos2d_pY="0" x="183" y="51"/>
+    <SubTexture name="tuzi_1-er_zuo" width="47" height="44" cocos2d_pX="0" cocos2d_pY="0" x="110" y="59"/>
+    <SubTexture name="xinfeng_1-元件 1" width="67" height="49" cocos2d_pX="0" cocos2d_pY="0" x="183" y="0"/>
+    <SubTexture name="xinfeng_1-元件 2" width="36" height="29" cocos2d_pX="0" cocos2d_pY="0" x="197" y="99"/>
+    <SubTexture name="xinfeng_1-元件 3" width="36" height="29" cocos2d_pX="0" cocos2d_pY="0" x="159" y="99"/>
+    <SubTexture name="xinfeng_1-元件 4" width="71" height="57" cocos2d_pX="0" cocos2d_pY="0" x="110" y="0"/>
+  </TextureAtlas>
+</skeleton>

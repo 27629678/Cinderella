@@ -1,0 +1,26 @@
+<skeleton name="未命名-2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="guang">
+      <b name="图层 1" x="-3.65" y="-3.65" kX="0" kY="0" cX="0.06" cY="0.06" pX="445.75" pY="445.75" z="0">
+        <d name="donghau -guang" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="guang">
+      <mov name="guang" dr="30" to="6" drTW="30" lp="0" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-3.65" y="-3.65" cocos2d_x="-30.8" cocos2d_y="-30.8" kX="0" kY="0" cX="0.06" cY="0.06" pX="445.75" pY="445.75" z="0" dI="0" dr="6"/>
+          <f x="-3.65" y="-3.65" cocos2d_x="-539" cocos2d_y="-538.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="446" pY="445.5" z="0" dI="0" dr="5"/>
+          <f x="-3.7" y="-3.65" cocos2d_x="-352.25" cocos2d_y="-351.85" kX="0" kY="0" cX="0.78" cY="0.78" pX="445.95" pY="445.55" z="0" dI="0" dr="5"/>
+          <f x="-3.65" y="-3.65" cocos2d_x="-515.15" cocos2d_y="-514.55" kX="0" kY="0" cX="1.15" cY="1.15" pX="446" pY="445.45" z="0" dI="0" dr="5"/>
+          <f x="-3.65" y="-3.65" cocos2d_x="-449.65" cocos2d_y="-449.15" kX="0" kY="0" cX="1" cY="1" pX="446" pY="445.5" z="0" dI="0" dr="7"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="未命名-2" width="1024" height="1024">
+    <SubTexture name="donghau -guang" width="904" height="895" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>
